@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#ff000000</color>
+
+<!-- testo barra tools -->
+<color name="menuitem_default_checkedcolor">#ff0000</color>
+<color name="menuitem_default_uncheckedcolor">#ff0000</color>
+<color name="menuitem_default_uncheckedcolor_pressed">#ff0000</color>
+<color name="menuitem_default_checkedcolor_pressed">#ff0000</color>
+
+
+<!-- Colore titolo TAB per icona usare png -->
+<color name="emui_custom_panel_background">#00000000</color>
+<color name="emui_tab_title_pressed">#ff0000</color>
+<color name="emui_tab_title_selected">#ffffff</color>
+<color name="emui_tab_title_activated">#ff0000</color>
+<color name="emui_tab_title_normal">#ff0000</color>
+
+</resources>
+

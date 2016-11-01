@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#3d7377</color>
+
+
+</resources>
+

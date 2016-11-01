@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<hwthemes>     
+
+
+  <!--控制tab用固定背景图 #00000000时为固定背景 其他为高斯模糊墙纸效果 -->
+  <color name="background_change">#00000000</color>
+
+   
+</hwthemes>

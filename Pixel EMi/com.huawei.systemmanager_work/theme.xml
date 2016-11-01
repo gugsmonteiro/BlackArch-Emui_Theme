@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>
+    <color name="widget_progress_begin">#4d9297</color>
+    <color name="widget_progress_end">#4d9297</color>
+    <dimen name="widget_cleanner_progress_weight">0dip</dimen>
+    <color name="translucent_background">#4d9297</color>
+    <color name="page_bg_color">#4d9297</color>
+    <color name="theme_widget_progress_text_color">#4d9297</color>
+    <color name="white">#4d9297</color>
+    <color name="color_expandableList_item_bkg">#994d9297</color>
+
+
+    <color name="color_end_bg">#000000</color>
+    <color name="color_start_bg">#000000</color>
+    <color name="color_middle_bg">#000000</color>
+
+    <color name="power_color_start_bg">#4d9297</color>
+    <color name="power_color_center_bg">#4d9297</color>
+    <color name="power_color_end_bg">#4d9297</color>
+	
+    <color name="addetect_color_start_bg">#000000</color>
+    <color name="addetect_color_center_bg">#000000</color>
+    <color name="addetect_color_end_bg">#000000</color>
+
+
+    <color name="virtus_color_start_bg">#00ffff</color>
+    <color name="hsm_common_bg">#4d9297</color>
+    <color name="hsm_mainscreen_bg">#000000</color>
+    <color name="applock_numpad_divider_color">#ffffff</color>
+    <color name="applock_numpad_bg_normal_color">#00ffff</color>
+    <color name="applock_numpad_bg_pressed_color">#000000</color>
+    <color name="applock_numpad_bg_disable_color">#ffffff</color>	
+</hwthemes>

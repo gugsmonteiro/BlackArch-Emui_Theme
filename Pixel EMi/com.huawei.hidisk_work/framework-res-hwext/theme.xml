@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#41cad7</color>
+
+<!-- Testo menu divisori -->
+<color name="emui_list_separator_default">#ffffff</color>
+
+<color name="emui_tab_title_pressed">#171717</color>
+<color name="emui_tab_title_selected">#ffffff</color>
+<color name="emui_tab_title_activated">#171717</color>
+<color name="emui_tab_title_normal">#171717</color>
+
+
+
+</resources>
+

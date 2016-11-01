@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Testo menu divisori -->
+<color name="emui_list_separator_default">#ffffff</color>
+
+<!-- Colora la statusbar -->
+<color name="primary_emui_light">#3d7377</color>
+
+
+
+</resources>
+

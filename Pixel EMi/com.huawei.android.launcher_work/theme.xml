@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>
+
+<!-- Colore nome app cartella aperta -->
+
+<color name="workspace_app_text_color">#ffffff</color>
+    
+<!-- Colore nome cartella-->
+
+<color name="folder_app_text_color">#302226</color>
+<color name="folder_app_text_shadowColor">#00000000</color>
+<bool name="folder_app_text_shadow">false</bool>
+
+</hwthemes>

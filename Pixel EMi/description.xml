@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>Pixel EMi</title>
+    <title-cn>Titolo del tema in lingua cinese</title-cn>
+    <author>Vobiscum</author>
+    <designer>Vobiscum</designer>
+    <screen>FHD</screen>
+    <version>6.0</version>
+    <font>Default</font>
+    <font-cn>Default</font-cn>
+    <transition>None</transition>
+</HwTheme>

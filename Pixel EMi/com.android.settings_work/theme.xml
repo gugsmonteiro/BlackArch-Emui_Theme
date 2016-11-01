@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>
+
+<!-- colore divisore lista settings -->
+<color name="preference_divider_grey">#00000000</color>
+
+</hwthemes>

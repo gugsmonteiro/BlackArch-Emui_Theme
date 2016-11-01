@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <!-- setting sectionlist标题字体 省电管理sectionlist -->
+    <color name="emui_list_separator_default">#ffffffff</color>
+ 
+
+
+<!--状态栏和ActionBar的背景色-->
+<color name="primary_emui_light">#3d7377</color>
+
+
+</resources>
+
